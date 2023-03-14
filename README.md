@@ -1,4 +1,4 @@
-# Hi 👋, my name is Mehedi
+# Hi 👋, My name is Mehedi
 ##### Webflow Website Developer👑
 ##### Love to learn❤🙌
 ##### Always love to teach📖
