@@ -1,5 +1,3 @@
-![Webflow Website Developer](https://www.facebook.com/photo/?fbid=3390075174646586&set=a.1562239104096878)
-
 # Hi 👋, my name is Mehedi
 #### Webflow Website Developer
 
@@ -8,7 +6,8 @@ I'm a Creative Webflow Designer and Developer. I have full experience in Webflow
 
 I will build your webflow website using client first strategy. My goal is to always provide the best possible support to each customer and keep them satisfied so they enjoy working with me. I want to maintain long-term relationship with my customers. So If you need an Outstanding and Strong Website/ Portfolio /Landing page built on Webflow. Just inbox me. Because I am very passionate about your project.❤
 
-Skills: WEBFLOW / JS / HTML / CSS
+# ✔Skills: 
+WEBFLOW Website Design / Website Development / JS / HTML / CSS
 
 - 🔭 I’m currently working on webflow 
 - 🌱 I’m currently learning javascript 
